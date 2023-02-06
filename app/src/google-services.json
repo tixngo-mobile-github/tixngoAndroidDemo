@@ -1,0 +1,587 @@
+{
+  "project_info": {
+    "project_number": "440673109265",
+    "firebase_url": "https://tixngo.firebaseio.com",
+    "project_id": "tixngo",
+    "storage_bucket": "tixngo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:440673109265:android:5b8cbfb2c0c16b42",
+        "android_client_info": {
+          "package_name": "io.tixngo.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "440673109265-gtt87pni59c4e0ooji8mfjte6bdubm7r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwb69IH73LPIQFZAOPuRWdPJRsSaN659Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "440673109265-gtt87pni59c4e0ooji8mfjte6bdubm7r.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "440673109265-19vpmqlo4ihu377fp0ip1nf5q02q4lf9.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "io.tixngo.app.enation21"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:440673109265:android:e80c791b760215b67bf8b0",
+        "android_client_info": {
+          "package_name": "io.tixngo.app.ffwc20"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "440673109265-gtt87pni59c4e0ooji8mfjte6bdubm7r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwb69IH73LPIQFZAOPuRWdPJRsSaN659Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "440673109265-gtt87pni59c4e0ooji8mfjte6bdubm7r.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "440673109265-19vpmqlo4ihu377fp0ip1nf5q02q4lf9.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "io.tixngo.app.enation21"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:440673109265:android:101b2db6b3611ab77bf8b0",
+        "android_client_info": {
+          "package_name": "io.tixngo.app.ftl"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "440673109265-gtt87pni59c4e0ooji8mfjte6bdubm7r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwb69IH73LPIQFZAOPuRWdPJRsSaN659Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "440673109265-gtt87pni59c4e0ooji8mfjte6bdubm7r.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "440673109265-19vpmqlo4ihu377fp0ip1nf5q02q4lf9.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "io.tixngo.app.enation21"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:440673109265:android:92762aad5440db537bf8b0",
+        "android_client_info": {
+          "package_name": "io.tixngo.app.ftr"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "440673109265-gtt87pni59c4e0ooji8mfjte6bdubm7r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwb69IH73LPIQFZAOPuRWdPJRsSaN659Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "440673109265-gtt87pni59c4e0ooji8mfjte6bdubm7r.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "440673109265-19vpmqlo4ihu377fp0ip1nf5q02q4lf9.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "io.tixngo.app.enation21"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:440673109265:android:c17c32707dcc16377bf8b0",
+        "android_client_info": {
+          "package_name": "io.tixngo.app.lccc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "440673109265-gtt87pni59c4e0ooji8mfjte6bdubm7r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwb69IH73LPIQFZAOPuRWdPJRsSaN659Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "440673109265-gtt87pni59c4e0ooji8mfjte6bdubm7r.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "440673109265-19vpmqlo4ihu377fp0ip1nf5q02q4lf9.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "io.tixngo.app.enation21"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:440673109265:android:79986fce699081f37bf8b0",
+        "android_client_info": {
+          "package_name": "io.tixngo.app.lmsf"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "440673109265-gtt87pni59c4e0ooji8mfjte6bdubm7r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwb69IH73LPIQFZAOPuRWdPJRsSaN659Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "440673109265-gtt87pni59c4e0ooji8mfjte6bdubm7r.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "440673109265-19vpmqlo4ihu377fp0ip1nf5q02q4lf9.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "io.tixngo.app.enation21"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:440673109265:android:a4612f83a2e0a3417bf8b0",
+        "android_client_info": {
+          "package_name": "io.tixngo.app.lta"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "440673109265-gtt87pni59c4e0ooji8mfjte6bdubm7r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwb69IH73LPIQFZAOPuRWdPJRsSaN659Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "440673109265-gtt87pni59c4e0ooji8mfjte6bdubm7r.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "440673109265-19vpmqlo4ihu377fp0ip1nf5q02q4lf9.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "io.tixngo.app.enation21"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:440673109265:android:2069e5a8de00f3447bf8b0",
+        "android_client_info": {
+          "package_name": "io.tixngo.app.nflprob22"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "440673109265-gtt87pni59c4e0ooji8mfjte6bdubm7r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwb69IH73LPIQFZAOPuRWdPJRsSaN659Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "440673109265-gtt87pni59c4e0ooji8mfjte6bdubm7r.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "440673109265-19vpmqlo4ihu377fp0ip1nf5q02q4lf9.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "io.tixngo.app.enation21"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:440673109265:android:3264607e4a4874f97bf8b0",
+        "android_client_info": {
+          "package_name": "io.tixngo.app.rbl"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "440673109265-gtt87pni59c4e0ooji8mfjte6bdubm7r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwb69IH73LPIQFZAOPuRWdPJRsSaN659Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "440673109265-gtt87pni59c4e0ooji8mfjte6bdubm7r.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "440673109265-19vpmqlo4ihu377fp0ip1nf5q02q4lf9.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "io.tixngo.app.enation21"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:440673109265:android:144468707d66e4367bf8b0",
+        "android_client_info": {
+          "package_name": "io.tixngo.app.remt"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "440673109265-gtt87pni59c4e0ooji8mfjte6bdubm7r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwb69IH73LPIQFZAOPuRWdPJRsSaN659Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "440673109265-gtt87pni59c4e0ooji8mfjte6bdubm7r.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "440673109265-19vpmqlo4ihu377fp0ip1nf5q02q4lf9.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "io.tixngo.app.enation21"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:440673109265:android:264943c9874907c07bf8b0",
+        "android_client_info": {
+          "package_name": "io.tixngo.app.show"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "440673109265-gtt87pni59c4e0ooji8mfjte6bdubm7r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwb69IH73LPIQFZAOPuRWdPJRsSaN659Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "440673109265-gtt87pni59c4e0ooji8mfjte6bdubm7r.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "440673109265-19vpmqlo4ihu377fp0ip1nf5q02q4lf9.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "io.tixngo.app.enation21"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:440673109265:android:6bdb3ecb9feb34807bf8b0",
+        "android_client_info": {
+          "package_name": "io.tixngo.app.theopen"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "440673109265-gtt87pni59c4e0ooji8mfjte6bdubm7r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwb69IH73LPIQFZAOPuRWdPJRsSaN659Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "440673109265-gtt87pni59c4e0ooji8mfjte6bdubm7r.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "440673109265-19vpmqlo4ihu377fp0ip1nf5q02q4lf9.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "io.tixngo.app.enation21"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:440673109265:android:8007c7158f4d74647bf8b0",
+        "android_client_info": {
+          "package_name": "io.tixngo.app.tnguefa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "440673109265-gtt87pni59c4e0ooji8mfjte6bdubm7r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwb69IH73LPIQFZAOPuRWdPJRsSaN659Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "440673109265-gtt87pni59c4e0ooji8mfjte6bdubm7r.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "440673109265-19vpmqlo4ihu377fp0ip1nf5q02q4lf9.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "io.tixngo.app.enation21"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:440673109265:android:c9a5936ffce20c9f7bf8b0",
+        "android_client_info": {
+          "package_name": "io.tixngo.app.ttf"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "440673109265-gtt87pni59c4e0ooji8mfjte6bdubm7r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwb69IH73LPIQFZAOPuRWdPJRsSaN659Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "440673109265-gtt87pni59c4e0ooji8mfjte6bdubm7r.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "440673109265-19vpmqlo4ihu377fp0ip1nf5q02q4lf9.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "io.tixngo.app.enation21"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:440673109265:android:97583961636cb39c7bf8b0",
+        "android_client_info": {
+          "package_name": "io.tixngo.app.val"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "440673109265-gtt87pni59c4e0ooji8mfjte6bdubm7r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwb69IH73LPIQFZAOPuRWdPJRsSaN659Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "440673109265-gtt87pni59c4e0ooji8mfjte6bdubm7r.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "440673109265-19vpmqlo4ihu377fp0ip1nf5q02q4lf9.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "io.tixngo.app.enation21"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:440673109265:android:289ba5531e4237887bf8b0",
+        "android_client_info": {
+          "package_name": "io.tixngo.app.wimbledon"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "440673109265-gtt87pni59c4e0ooji8mfjte6bdubm7r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwb69IH73LPIQFZAOPuRWdPJRsSaN659Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "440673109265-gtt87pni59c4e0ooji8mfjte6bdubm7r.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "440673109265-19vpmqlo4ihu377fp0ip1nf5q02q4lf9.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "io.tixngo.app.enation21"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
