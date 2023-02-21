@@ -9,6 +9,7 @@ import androidx.fragment.app.Fragment
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
+import androidx.constraintlayout.widget.ConstraintLayout
 import io.tixngo.exampleAndroid.service.AwsCognitoService
 import io.tixngo.exampleAndroid.databinding.FragmentMainBinding
 import io.tixngo.exampleAndroid.service.FirebaseMessageHelper
@@ -26,13 +27,14 @@ class MainFragment : Fragment() {
     override fun onCreateView(
         inflater: LayoutInflater, container: ViewGroup?,
         savedInstanceState: Bundle?
-    ): View {
+    ): ConstraintLayout? {
 
         _binding = FragmentMainBinding.inflate(inflater, container, false)
         return binding.root
     }
 
     private fun setLoading(isShow: Boolean) {
+
         binding.splashscreen.visibility = if (isShow) View.VISIBLE else  View.GONE
     }
 
@@ -44,7 +46,7 @@ class MainFragment : Fragment() {
             config = TixngoConfiguration(
                 sskLicenseKey = "",
                 isEnableDebug = true,
-                defaultEnv = TixngoEnv.INT,
+                defaultEnv = TixngoEnv.VAL,
                 isEnableWallet = false,
                 isCheckAppStatus = false,
                 supportLanguages = arrayOf(TixngoLanguages.EN),
@@ -53,7 +55,7 @@ class MainFragment : Fragment() {
                     font = "qatar2022",
                     colors = TixngoColor(primary = "0xff560055")
                 ),
-                appId = "io.tixngo.app",
+                appId = "io.tixngo.app.sdk",
             ),
             onInitializedHandler =
             {
