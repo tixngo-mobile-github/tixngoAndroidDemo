@@ -52,6 +52,8 @@ class AwsCognitoService(private val applicationContext: Context, private val reg
             }
 
         }, true).run()
+
+
     }
 
     fun signup(username: String, password: String, completion: (Exception?, CodeDeliveryDetailsType?) -> Unit) {
