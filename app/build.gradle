@@ -39,10 +39,10 @@ android {
 }
 
 dependencies {
-    debugImplementation 'io.tixngo.sdk:flutter_debug:26.0'
-    releaseImplementation 'io.tixngo.sdk:flutter_release:26.0'
-    debugImplementation 'io.tixngo.sdkUtils:sdkUtils-debug:29.0'
-    releaseImplementation 'io.tixngo.sdkUtils:sdkUtils-release:29.0'
+    debugImplementation 'io.tixngo.sdk:flutter_debug:v1.0.2'
+    releaseImplementation 'io.tixngo.sdk:flutter_release:v1.0.2'
+    debugImplementation 'io.tixngo.sdkUtils:sdkUtils-debug:v1.0.2'
+    releaseImplementation 'io.tixngo.sdkUtils:sdkUtils-release:v1.0.2'
     implementation 'androidx.core:core-ktx:1.7.0'
     implementation 'androidx.appcompat:appcompat:1.5.0'
     implementation 'com.google.android.material:material:1.6.1'

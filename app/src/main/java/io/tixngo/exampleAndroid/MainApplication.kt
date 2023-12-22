@@ -36,7 +36,7 @@ class MainApplication : Application() {
                 fontCallBack.onFontLoadCompleted(fontResToByteBuffer(familyId))
             }
         }
-        AwsCognitoService(this, Regions.EU_WEST_1, "jlbqqjljdcm6cu19cq304qg8g", "eu-west-1_MEFItygqR")
+        AwsCognitoService(this, Regions.EU_WEST_1, "69g6etb9kiendmj04gombdpnib", "eu-west-1_wNu7WMfPC")
         FirebaseMessageHelper(this).initialize()
     }
 
