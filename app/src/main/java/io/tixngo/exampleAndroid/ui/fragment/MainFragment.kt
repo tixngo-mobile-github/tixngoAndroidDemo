@@ -5,6 +5,7 @@ import TixngoButtonStyle
 import TixngoButtons
 import TixngoColor
 import TixngoConfiguration
+import TixngoCustomDomain
 import TixngoFont
 import TixngoSDKConfig
 import TixngoTheme
@@ -48,9 +49,9 @@ class MainFragment : Fragment() {
         TixngoManager.instance.initialize(
             context = activity,
             config = TixngoConfiguration(
-                sskLicenseKey = "MEYCIQDO4RS/aRJmaKnRZOaq9FOYNehpX9s4FqTdiNf6flbkcAIhANK7ToiL/EANI1vCIRchcny5SHI8cYbzz3KiyfeZf6SX",
+                isEnableScreenshotSSK = true,
                 isEnableDebug = true,
-                defaultEnv = TixngoEnv.VAL,
+                defaultEnv = TixngoEnv.PREPROD,
                 isEnableWallet = false,
                 isCheckAppStatus = false,
                 supportLanguages = arrayOf(TixngoLanguages.EN),
@@ -60,12 +61,13 @@ class MainFragment : Fragment() {
                     colors = TixngoColor(primary = "0xff00968D", secondary = "0xff2B5B6C"),
                     buttons = TixngoButtons(primary = TixngoButtonStyle(background = "0xff00968D", textFont = TixngoFont("qatar2022", size = 16.0)))
                 ),
-                appId = "io.tixngo.app.sdk",
+                appId = "com.fifa.tournament",
                 config = TixngoSDKConfig(
                     displayType = DisplayType.Present,
                     isHaveMenu = false,
                     isHaveSignOut = false,
                 ),
+                customDomain = TixngoCustomDomain(preProdDomain = "https://pp26-api.tixngo.io")
             ),
             onInitializedHandler =
             {
@@ -100,35 +102,12 @@ class MainFragment : Fragment() {
                 println("Hltest => onCloseHandler")
             }
         )
-        TixngoManager.instance.setEnv(TixngoEnv.VAL)
+        TixngoManager.instance.setEnv(TixngoEnv.PREPROD)
     }
 
     override fun onViewCreated(view: View, savedInstanceState: Bundle?) {
         super.onViewCreated(view, savedInstanceState)
-        println("HLtest => onViewCreated")
         initialize()
-//        val activity = requireActivity()
-//
-//        binding.home.setOnClickListener {
-//            TixngoManager.instance.openHomePage(activity)
-//        }
-//        binding.myTicket.setOnClickListener {
-//            TixngoManager.instance.openEventPage(activity)
-//        }
-//
-//        binding.transferredTicket.setOnClickListener {
-//            TixngoManager.instance.openTransferredTicketPage(activity)
-//        }
-//
-//        binding.pendingTicket.setOnClickListener {
-//            TixngoManager.instance.openPendingTicketPage(activity)
-//        }
-//
-//        binding.logout.setOnClickListener {
-//            TixngoManager.instance.signOut()
-//            val intent = Intent(activity, LoginActivity::class.java)
-//            activity.startActivity(intent)
-//        }
     }
 
     override fun onDestroyView() {

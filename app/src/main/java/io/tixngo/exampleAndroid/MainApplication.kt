@@ -36,7 +36,23 @@ class MainApplication : Application() {
                 fontCallBack.onFontLoadCompleted(fontResToByteBuffer(familyId))
             }
         }
-        AwsCognitoService(this, Regions.EU_WEST_1, "69g6etb9kiendmj04gombdpnib", "eu-west-1_wNu7WMfPC")
+        // SDK
+        // AwsCognitoService(this, Regions.EU_WEST_1, "69g6etb9kiendmj04gombdpnib", "eu-west-1_wNu7WMfPC")
+
+        // FWWC23
+        AwsCognitoService(this, Regions.EU_WEST_1,
+            "1dblf7p82qg23pt4plusr4muf8",
+            "eu-west-1_Uk3AzbQZ0")
+
+//        App ID: com.fifa.tournament
+//                Pool Name: pp26-tixngo_spectators-com.fifa.tournament
+//        User pool ID: us-east-1_1BABV9GDI
+//        Client ID: 29bqrftt94022e1jbrop2j01ec
+//        API: https://v7ps26pl55.execute-api.us-east-1.amazonaws.com/v3
+
+        AwsCognitoService(this, Regions.US_EAST_1,
+            "29bqrftt94022e1jbrop2j01ec",
+            "us-east-1_1BABV9GDI")
         FirebaseMessageHelper(this).initialize()
     }
 

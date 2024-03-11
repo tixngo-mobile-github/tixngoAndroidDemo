@@ -31,20 +31,20 @@ class MainActivity : AppCompatActivity() {
         setupActionBarWithNavController(navController, appBarConfiguration)
 
         loadFragment(NewsFragment())
-        bottomNav = findViewById(io.tixngo.exampleAndroid.R.id.bottomNav) as BottomNavigationView
+        bottomNav = findViewById(R.id.bottomNav) as BottomNavigationView
         bottomNav.setOnItemSelectedListener {
             when (it.itemId) {
-                io.tixngo.exampleAndroid.R.id.news -> {
+                R.id.news -> {
                     showTopNav()
                     loadFragment(NewsFragment())
                     true
                 }
-                io.tixngo.exampleAndroid.R.id.matches -> {
+                R.id.matches -> {
                     showTopNav()
                     loadFragment(MatchesFragment())
                     true
                 }
-                io.tixngo.exampleAndroid.R.id.tickets -> {
+                R.id.tickets -> {
                     hideTopNav()
                     loadFragment(TicketsFragment())
                     true
